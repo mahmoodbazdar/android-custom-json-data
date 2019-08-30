@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Sports"
+  },
+  {
+    "id": 2,
+    "name": "Politics"
+  },
+  {
+    "id": 3,
+    "name": "Financial"
+  },
+  {
+    "id": 4,
+    "name": "Business"
+  },
+  {
+    "id": 5,
+    "name": "Technology"
+  },
+]
